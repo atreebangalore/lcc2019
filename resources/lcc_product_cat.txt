@@ -1,0 +1,16 @@
+sofa|Sofa
+cot|Cot
+chair|Chair
+rack|Rack
+shelf|Shelf
+table|Table
+swing|Swing
+stand|Stand
+box|Box
+teapai|Teapai
+
+
+006633
+339966
+
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);

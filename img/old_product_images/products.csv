@@ -1,0 +1,45 @@
+lccp_cat,lccp_name,lccp_dimdesc,lccp_pic,lccp_curr,lccp_price
+Sofa,Single Sofa (3 seater),H x L x W = 17in x 60in x 20in,3_seater_single_sofa.jpg,INR,3000
+Sofa,Sofa 3+2+1,"# Three seater
+l x w x h = 5ft x 1ft 9inx 2ft 7in
+
+# Chair
+l x w x h = 1ft 9in x 1ft 9in x 2ft 7in
+
+# Coffee table
+l x w x h = 2ft 7in x 1ft 7inx 1ft 5in",3_seater_sofa_set.jpg,INR,8000
+Sofa,Sofa,,lcc_sofa_new.gif,INR,3000
+Sofa,Two Seater Sofa,l x w x h = 3ft 4in x 1ft 8in x 2ft 7in,2_seater_sofa_set.jpg,INR,6000
+Cot,Double Bed Cot,4.5in x 6.5in,lcc_cot65.gif,INR,6000
+Cot,Single Bed Cot,l x w x h = 3ft x 6ft x 17in,single_bed_cot.jpg,INR,3500
+Chair,Single Chair with arm,"h x l x w = 17in x 20in x 20""",na.png,INR,1500
+Chair,Baby Chair Set(4+1),h x l x w = 12in x 15in x 12in,lcc_smallchairs_0.gif,INR,4000
+Chair,Small Chair Set 2+1,Small Chair Set 2+1,lcc_smallchairset_21.gif,INR,1800
+Chair,Small Chairs,l x w = 15in x 15in,lcc_smallchairs.gif,INR,1000
+Chair,Chairs (without arm rest),l x w x h =1ft 9in x 1ft 9in x 2ft 7in,armless_single_chair.jpg,INR,1200
+Chair,Sofa chair,l x w x h =1ft 9in x 1ft 9in x 2ft 7in,Sofa_chair.jpg,INR,1500
+Shelf,Corner Shelf (3 racks),h x l x w = 32in x 15in x 15in,na.png,INR,1250
+Shelf,Corner shelf(4 racks),h x l x w = 44in x 15in x 15in,na.png,INR,1500
+Shelf,Book Shelf (Standard),w x h = 2ft 7in x 4ft 6in,lcc_bookshelf_std.gif,INR,2500
+Shelf,Book Shelf (Arch Type),"# w x h = 2ft 7in x 5ft
+# Depth = 1ft",lcc_bookshelf_at.gif,INR,3500
+Shelf,Corner Shelf,h x l x w = 44in x 15in x 15in,lcc_cornershelf.gif,INR,2000
+Shelf,Small Shelf,H x L x W = 36in x 30in x 12in,lcc_smallshelf.gif,INR,2000
+Shelf,Book Shelf,"# w x h = 2ft 7in x 6ft
+# Depth = 1ft",lcc_bookshelf_1.gif,INR,4000
+Table,Dining Set 4 + 1,"h x l x w = 17in x 15in x 15in
+4 + 1",dinning_set_without_glass.jpg,INR,5500
+Table,Coffee Table,h x w x l = 18in x 18in x 30in,lcc_coffeetable_1.gif,INR,500
+Table,Study Table,"# w x h = 3ft x 3ft
+# Depth =1ft 6in",lcc_studytable_1.gif,INR,3000
+Swing,Swing,"# w x h = 1ft 6in x 3ft
+# Depth =1ft 3in",lcc_swing_1.gif,INR,750
+Stand,Pen stand,,na.png,INR,100
+Stand,"TV stand
+",h x l x w = 18in x 78in x 18in,na.png,INR,3000
+Stand,Corner stand,h x l x w = 17in x 12in x 12in,corner_stand.jpg,INR,500
+Stand,Helmet Stand,h = 3ft 6in,lcc_helmetstand_1.gif,INR,500
+Box,Dust bin,h x l x w = 12in x 9in x 9in,dustbin.jpg,INR,400
+Box,Clothes Box,l x w x h = 18in x 15in x 15in,lcc_clothesbox_new.gif,INR,1000
+Teapai,Teapai,H x L x W = 17in x 30in x 18in,lcc_teapai_big.gif,INR,1000
+Teapai,2 Chair 1 Teapai,,lcc_2chair1_teapai.gif,INR,3200
